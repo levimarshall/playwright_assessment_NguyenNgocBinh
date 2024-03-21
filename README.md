@@ -8,14 +8,10 @@
 + cucumber
 + playwright
 + playwrightbdd
-#### Make sure you already have [nodejs](https://nodejs.org/en/download) and [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm), after clone the project, run the following commands in the project's terminal to install needed modules:
+#### Make sure you already have [nodejs](https://nodejs.org/en/download) and [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm), after clone the project, run the following commands in the project's terminal to install required modules:
 
 ```
 npm i
-```
-
-```
-npm install playwright
 ```
 
 
