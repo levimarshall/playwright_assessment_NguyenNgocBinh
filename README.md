@@ -15,7 +15,7 @@ npm i
 ```
 
 ```
-npx playwright install -g
+npm install playwright
 ```
 
 
