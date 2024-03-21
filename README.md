@@ -14,6 +14,10 @@
 npm i
 ```
 
+```
+npx playwright install -g
+```
+
 
 #### If this fails, delete the `node_modules` directory and `package-lock.json` file and try again the above command.
 
